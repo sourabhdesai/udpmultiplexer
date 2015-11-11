@@ -1,6 +1,6 @@
 {
   "name": "udpmultiplexer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Takes input from stdin and forwards it to an arbitrary amount of UDP clients",
   "main": "index.js",
   "scripts": {
@@ -18,8 +18,8 @@
     "commander": "^2.9.0",
     "udp-blast": "^1.0.1"
   },
-  "repository" : {
-    "type" : "git",
-    "url" : "https://github.com/sourabhdesai/udpmultiplexer.git"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sourabhdesai/udpmultiplexer.git"
   }
 }
