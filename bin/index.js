@@ -1,3 +1,8 @@
+#! /usr/bin/env node
+'use strict';
+
+process.bin = process.title = 'bower';
+
 var packageInfo = require('./package.json');
 var program     = require('commander');
 var fs          = require('fs');
