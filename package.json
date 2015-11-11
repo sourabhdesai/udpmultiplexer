@@ -1,6 +1,6 @@
 {
   "name": "udpmultiplexer",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Takes input from stdin and forwards it to an arbitrary amount of UDP clients",
   "main": "index.js",
   "scripts": {
