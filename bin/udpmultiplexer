@@ -1,7 +1,7 @@
 #! /usr/bin/env node
 'use strict';
 
-process.bin = process.title = 'bower';
+process.bin = process.title = 'udpmultiplexer';
 
 var packageInfo = require('./package.json');
 var program     = require('commander');
