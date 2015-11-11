@@ -3,7 +3,7 @@
 
 process.bin = process.title = 'udpmultiplexer';
 
-var packageInfo = require('./package.json');
+var packageInfo = require('../package.json');
 var program     = require('commander');
 var fs          = require('fs');
 var udpBlast    = require('udp-blast');
