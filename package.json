@@ -1,7 +1,7 @@
 {
   "name": "udpmultiplexer",
   "version": "1.0.5",
-  "description": "Takes input from stdin and forwards it to an arbitrary amount of UDP clients",
+  "description": "Takes input from stdin and forwards it to an arbitrary amount of UDP listeners",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
